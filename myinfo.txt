@@ -1,4 +1,5 @@
 "Fredericksburg, VA" 
- 
-"  USA" 
+"USA" 
 
+"Fredericksburg, VA" 
+"USA" 
